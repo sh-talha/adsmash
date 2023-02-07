@@ -1,0 +1,24 @@
+<svg width="68" height="67" viewBox="0 0 68 67" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="33.6578" cy="33.6246" r="33.3687" fill="#1C1A2E"/>
+<mask id="mask0_167_1702" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="68" height="67">
+<circle cx="33.6578" cy="33.6246" r="33.3687" fill="white"/>
+</mask>
+<g mask="url(#mask0_167_1702)">
+<circle cx="60.3527" cy="23.0868" r="38.9887" fill="#2C2855"/>
+<circle opacity="0.540783" cx="23.4714" cy="1.66087" r="6.32249" fill="#161424"/>
+<circle opacity="0.540783" cx="47.3564" cy="62.7781" r="6.32249" fill="#161424"/>
+<circle opacity="0.540783" cx="28.0377" cy="25.8971" r="8.07874" fill="#161424"/>
+<circle opacity="0.540783" cx="20.3102" cy="53.2946" r="8.07874" fill="#161424"/>
+<circle opacity="0.540783" cx="54.0302" cy="25.1945" r="8.07874" fill="#161424"/>
+<circle opacity="0.540783" cx="36.4678" cy="45.5671" r="2.45875" fill="#161424"/>
+<circle opacity="0.540783" cx="51.2202" cy="42.0545" r="2.45875" fill="#161424"/>
+<circle opacity="0.540783" cx="44.8977" cy="13.2522" r="2.45875" fill="#161424"/>
+<circle opacity="0.540783" cx="7.66529" cy="26.5994" r="2.45875" fill="#161424"/>
+<circle opacity="0.540783" cx="58.2451" cy="49.782" r="2.45875" fill="#161424"/>
+<circle opacity="0.540783" cx="17.5002" cy="35.7319" r="3.86374" fill="#161424"/>
+<circle opacity="0.540783" cx="59.6501" cy="11.8471" r="3.86374" fill="#161424"/>
+<circle opacity="0.540783" cx="39.9802" cy="34.3271" r="3.86374" fill="#161424"/>
+<circle opacity="0.540783" cx="31.5503" cy="66.6421" r="3.86374" fill="#161424"/>
+<circle opacity="0.540783" cx="2.74778" cy="41.352" r="3.86374" fill="#161424"/>
+</g>
+</svg>
